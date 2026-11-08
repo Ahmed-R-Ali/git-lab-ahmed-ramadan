@@ -1,1 +1,3 @@
 title: Ahmed_Ramadan
+itroduction:
+A FullStack .NET developer passionate with new designs
