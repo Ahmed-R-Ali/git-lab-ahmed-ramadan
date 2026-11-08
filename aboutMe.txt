@@ -4,3 +4,6 @@ A FullStack .NET developer passionate with new designs
 skills:
 Java Script
 SQL Data Base
+hobbies:
+watching soccer games
+reading novels
