@@ -1,3 +1,6 @@
 title: Ahmed_Ramadan
 itroduction:
 A FullStack .NET developer passionate with new designs
+skills:
+Java Script
+SQL Data Base
